@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./gerardimeermane01meergoog_0294.png"; bbox 0 0 2140 3578; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 493 1195 875 1288">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 493 1195 875 1288">
+     <span class='ocr_line' id='line_1_1' title="bbox 493 1195 875 1288; baseline -0.003 0"><span class='ocrx_word' id='word_1_1' title='bbox 493 1207 559 1288; x_wconf 84' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_2' title='bbox 762 1195 875 1244; x_wconf 44' lang='lat'>¹⁴</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 128 1423 925 1586">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 128 1423 925 1586">
+     <span class='ocr_line' id='line_1_2' title="bbox 128 1423 925 1586; baseline -0.001 -3"><span class='ocrx_word' id='word_1_3' title='bbox 128 1425 342 1583; x_wconf 88' lang='lat' dir='ltr'>ARA</span> <span class='ocrx_word' id='word_1_4' title='bbox 385 1423 925 1586; x_wconf 91' lang='lat' dir='ltr'>VBIORUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 183 1671 872 1791">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 183 1671 872 1791">
+     <span class='ocr_line' id='line_1_3' title="bbox 183 1671 872 1791; baseline -0.006 -1"><span class='ocrx_word' id='word_1_5' title='bbox 183 1703 255 1790; x_wconf 83' lang='grc' dir='ltr'>ΙΝ</span> <span class='ocrx_word' id='word_1_6' title='bbox 287 1706 339 1790; x_wconf 86' lang='lat' dir='ltr'>C.</span> <span class='ocrx_word' id='word_1_7' title='bbox 371 1671 588 1791; x_wconf 78' lang='lat' dir='ltr'><strong>CORN.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 613 1701 872 1789; x_wconf 78' lang='lat' dir='ltr'>TA01T1</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 49 1878 889 2241">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 49 1878 889 2241">
+     <span class='ocr_line' id='line_1_4' title="bbox 302 1878 766 1965; baseline -0.011 -1"><span class='ocrx_word' id='word_1_9' title='bbox 302 1879 336 1965; x_wconf 91' lang='grc' dir='ltr'>Ι.</span> <span class='ocrx_word' id='word_1_10' title='bbox 367 1878 766 1963; x_wconf 79' lang='lat' dir='ltr'>ANNALIUM</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 49 2047 889 2241; baseline -0.006 0"><span class='ocrx_word' id='word_1_11' title='bbox 49 2047 54 2058; x_wconf 67' lang='grc'><em>’</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 168 2112 535 2241; x_wconf 79' lang='lat' dir='ltr'>LIBRI</span> <span class='ocrx_word' id='word_1_13' title='bbox 603 2111 765 2236; x_wconf 83' lang='lat' dir='ltr'>DU</span> <span class='ocrx_word' id='word_1_14' title='bbox 806 2109 889 2236; x_wconf 91' lang='grc' dir='ltr'>ο.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1074 3578">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1074 3578">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1074 3578; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1074 3578; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
